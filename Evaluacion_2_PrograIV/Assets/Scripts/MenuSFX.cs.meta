@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 07700530946dc554b988bffea7a46c11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - select: {fileID: 8300000, guid: b8ca9b190c9ddb943a07f407c240d4df, type: 3}
+  - move: {fileID: 8300000, guid: d028bae58d9ce6a42b1edca11a61682e, type: 3}
+  - back: {fileID: 8300000, guid: 2ca56b14e8c7fbb408113e4ebcc95826, type: 3}
+  - error: {fileID: 8300000, guid: fc0fbbecd3a2ed44a97d98b6449d6aec, type: 3}
+  - purchase: {fileID: 8300000, guid: 3b17773451a51f74888681bb42eb6447, type: 3}
+  - start: {fileID: 8300000, guid: f369f70d2decf5e4ba3f74946fffb568, type: 3}
+  - startup: {fileID: 8300000, guid: b07db43bf908b2a4ca28f0d7fa16cfab, type: 3}
+  - carMove: {fileID: 8300000, guid: d4bcc9ee394790145a0ea75b906b2695, type: 3}
+  - slider: {fileID: 8300000, guid: 5a489bbde1af1774f8ae88226d04e88e, type: 3}
+  - bgm1: {fileID: 8300000, guid: 2ce1fb215c5080a4d9aaaf8d6a10e395, type: 3}
+  - bgm2: {fileID: 8300000, guid: dea8782aed02d754cbd2c17ee9d78b20, type: 3}
+  - bgm3: {fileID: 8300000, guid: 18f3ce826c4ef1e45a500e63e7e1355a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
